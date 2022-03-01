@@ -40,3 +40,13 @@ Before you can run the project on your system, you will need to install some Rea
 1. To start the project in NodeJS run "npm start"
 
 2. To create a build of the website run "npm run build"
+
+## CSS Tips
+
+1. the example defines a wild card style in App.css. In practice, you shouldn't do this. It's handy for demo purposes, but doing it in a real project will cause a lot of pain.
+
+2. try to organize your styles to make it easier to maintain. A style that spans multiples pages should go in App.css. Styles that are used by a single page can go in the page level CSS file.
+
+3. define the font family in App.css
+
+4. make sure to test your website on multiple browsers and platforms to make sure it looks consistent
