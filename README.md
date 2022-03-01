@@ -1,6 +1,6 @@
-# ReactJS Menu Example Project
+# ReactJS Menu Project
 
-
+This repo shows how to build a simple menu in ReactJS using router and components. Router is using to control which page is shown. Each page is a basic React component.
 
 ## About the project
 
