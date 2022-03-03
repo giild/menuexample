@@ -20,6 +20,8 @@ This repo shows how to build a simple menu in ReactJS using router and component
 
 Before you can run the project on your system, you will need to install some React libraries. It assumes you have NodeJS installed on your system. If you don't have NodeJS installed, please do that first.
 
+I recommend installing es7 React/Redux plugin, if you are use VSCode.
+
 [https://nodejs.org/en/download/] NodeJS download
 
 ### Manual Install
