@@ -28,9 +28,15 @@ To learn more about Components [https://reactjs.org/docs/react-component.html]
 
 Before you can run the project on your system, you will need to install some React libraries. It assumes you have NodeJS installed on your system. If you don't have NodeJS installed, please do that first.
 
-I recommend installing es7 React/Redux plugin, if you are use VSCode.
+### About NodeJS
 
-[https://nodejs.org/en/download/] NodeJS download
+What is node? [https://www.youtube.com/watch?v=uVwtVBpw7RQ]
+
+NodeJS Download [https://nodejs.org/en/download/]
+
+### Useful VSCode extension for React
+
+I recommend installing es7 React/Redux plugin, if you are use VSCode.
 
 ### Manual Install
 
