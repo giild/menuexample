@@ -2,6 +2,14 @@
 
 This repo shows how to build a simple menu in ReactJS using router and components. Router is using to control which page is shown. Each page is a basic React component.
 
+### React Router
+
+To learn more about Router [https://reactrouter.com/] (https://reactrouter.com/)
+
+### React Component
+
+To learn more about Components [https://reactjs.org/docs/react-component.html] (https://reactjs.org/docs/react-component.html)
+
 ## About the project
 
 1. The project was created using React 17.0.2
