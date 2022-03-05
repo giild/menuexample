@@ -36,7 +36,13 @@ NodeJS Download [https://nodejs.org/en/download/]
 
 ### Useful VSCode extension for React
 
-I recommend installing es7 React/Redux plugin, if you are use VSCode.
+I recommend installing es7 React/Redux plugin for VSCode.
+
+1. click on the extension icon on the left
+
+2. in the search box enter "dsznajder" to find the plugin by the author
+
+3. select the plugin and click install
 
 ### Manual Install
 
