@@ -4,11 +4,11 @@ This repo shows how to build a simple menu in ReactJS using router and component
 
 ### React Router
 
-To learn more about Router [https://reactrouter.com/] (https://reactrouter.com/)
+To learn more about Router [https://reactrouter.com/]
 
 ### React Component
 
-To learn more about Components [https://reactjs.org/docs/react-component.html] (https://reactjs.org/docs/react-component.html)
+To learn more about Components [https://reactjs.org/docs/react-component.html]
 
 ## About the project
 
