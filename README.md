@@ -1,4 +1,25 @@
-# ReactJS Menu Project
+# Getting Started
+
+Follow these steps to get started.
+
+1. Install NodeJS. NodeJS Download [https://nodejs.org/en/download/]
+
+2. From terminal or openshell create a new React project with "npx create-react-app testMenuApp"
+
+3. Install the React libraries with "npm install react-icons react-router-dom"
+
+4. Install es7 React/Redux plugin. The plugin is optional. It has a bunch of short cuts for React that make things easier
+
+5. Create two folders: components and pages
+
+6. Save a copy of Navbar.js, Navbar.css and NavbarData.js in components folder
+
+7. Create 3-5 pages and put them in pages folder
+
+8. Edit App.js to use the pages you created
+
+
+## ReactJS Menu Project
 
 This repo shows how to build a simple menu in ReactJS using router and components. Router is using to control which page is shown. Each page is a basic React component.
 
@@ -24,15 +45,9 @@ To learn more about Components [https://reactjs.org/docs/react-component.html]
 
 6. If you want to use a newer version of React, look at the compile errors and update the javascript to use the latest API. I recommend trying it to see how React has evolved over time. If you ever have to update older websites built with older versions of React, it will be good to know the differences. 
 
-## Setting up project
-
-Before you can run the project on your system, you will need to install some React libraries. It assumes you have NodeJS installed on your system. If you don't have NodeJS installed, please do that first.
-
 ### About NodeJS
 
 What is node? [https://www.youtube.com/watch?v=uVwtVBpw7RQ]
-
-NodeJS Download [https://nodejs.org/en/download/]
 
 ### Useful VSCode extension for React
 
@@ -43,18 +58,6 @@ I recommend installing es7 React/Redux plugin for VSCode.
 2. in the search box enter "dsznajder" to find the plugin by the author
 
 3. select the plugin and click install
-
-### Manual Install
-
-1. npm install react-icons
-
-2. npm install react-router-dom
-
-### Easy Install
-
-1. copy the dependencies in project.json
-
-2. npm install
 
 
 ## Running the project
