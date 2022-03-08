@@ -4,7 +4,7 @@ Follow these steps to get started.
 
 1. Install NodeJS. NodeJS Download [https://nodejs.org/en/download/]
 
-2. From terminal or openshell create a new React project with "npx create-react-app testMenuApp"
+2. From terminal or powershell create a new React project with "npx create-react-app testMenuApp"
 
 3. Install the React libraries with "npm install react-icons react-router-dom"
 
