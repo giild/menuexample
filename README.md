@@ -10,13 +10,19 @@ Follow these steps to get started.
 
 4. Install es7 React/Redux plugin. The plugin is optional. It has a bunch of short cuts for React that make things easier
 
-5. Create two folders: components and pages
+5. In VSCode create two folders under src folder: components and pages
 
-6. Save a copy of Navbar.js, Navbar.css and NavbarData.js in components folder
+6. Create three files in components folder named Navbar.js, Navbar.css and NavbarData.js
 
-7. Create 3-5 pages and put them in pages folder
+7. Copy and paste the contents for each of the files from the Github repository src/components/
 
-8. Edit App.js to use the pages you created
+8. Create 4 pages in pages folder: Home.js, Contact.js, Inbox.js, Search.js
+
+9. Open App.js and delete the lines between return ()
+
+10. Copy and paste lines 12-21 from the App.js example on github in your App.js
+
+11. Save the changes and refresh your browser. You should see a hamburger menu in the upper left corner
 
 
 ## ReactJS Menu Project
