@@ -24,6 +24,22 @@ Follow these steps to get started.
 
 11. Save the changes and refresh your browser. You should see a hamburger menu in the upper left corner
 
+## Errors & Troubleshooting
+
+ERROR in Plugin "react" was conflicted between "page.json >> eslint-config-react-app >> ..."
+
+This happens if there's hidden characters in one of the navbar files or one of the files is not correct. The solution is to double check each file.
+
+1. delete the contents of Navbar.js, Navbar.css, NavbarData.js
+
+2. Go to the Github repository src/components/ folder
+
+3. Select each file, click Raw, copy and paste the contents into the corresponding file
+
+4. Stop npm with Ctrl-C
+
+5. Run npm start
+
 
 ## ReactJS Menu Project
 
