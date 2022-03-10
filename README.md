@@ -97,3 +97,11 @@ I recommend installing es7 React/Redux plugin for VSCode.
 3. define the font family in App.css
 
 4. make sure to test your website on multiple browsers and platforms to make sure it looks consistent
+
+## Additional References
+
+React-Icons documentation [https://github.com/react-icons/react-icons#configuration]
+
+React-Router v6 in depth guide [https://www.youtube.com/watch?v=0cSVuySEB0A]
+
+React-Router changes in the latest version [https://www.youtube.com/watch?v=UjHT_NKR_gU]
